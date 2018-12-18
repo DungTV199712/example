@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="38daaef2-c5e8-4502-9249-b7c16edb253c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../CSS/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSS/CV/CV.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSS/CV/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSS/Fixed/Fix-header-footer.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSS/Fixed/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSS/layouts/box.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSS/layouts/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSS/story/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSS/story/story1.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSS/story/story2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSS/story/story3.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../CSS/story/style1.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuery/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JQuery/effect(hieu-ung)/effect.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laravel-Customer-test/resources/lang/en/language.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laravel-Customer-test/resources/lang/vi/language.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/lang/en/language.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/lang/vi/language.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular-tour-of-heroes/src/app/Hero.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../angular-tour-of-heroes/src/app/mock-heroes.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap/landing page/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap/landing page/landing.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap/landing page/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap/layout/shop.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap/layout/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap/responsive/respone.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../bootstrap/responsive/style.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testttt/resources/views/home.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testttt/resources/views/news/create.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testttt/resources/views/news/edit.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testttt/resources/views/news/list.blade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testttt/resources/views/news/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animals-Edible/AbstractAndInterfaceTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/AbstractAndInterfaceTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Animal.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Animal.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Fruit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Fruit.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animals-Edible/Animals/Chicken.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/Animals/Chicken.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animals-Edible/Animals/Tiger.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/Animals/Tiger.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animals-Edible/Fruits/Apple.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/Fruits/Apple.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Animals-Edible/Fruits/Orange.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/Fruits/Orange.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Circle-cylinder/Circle-cylinder.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Circle-cylinder/Circle-cylinder.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable/ComparableCircle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable/ComparableCircle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable/ComparableCircleMain.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable/ComparableCircleMain.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Comparable/comparable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Comparable/comparable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discount_Amount_Calculator/resources/views/Calculator.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Discount_Amount_Calculator/resources/views/Calculator.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Discount_Amount_Calculator/resources/views/display-discount.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Discount_Amount_Calculator/resources/views/display-discount.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../First-project/Read-Number.php" beforeDir="false" afterPath="$PROJECT_DIR$/../First-project/Read-Number.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTERFACE-Conparator/Circle.php" beforeDir="false" afterPath="$PROJECT_DIR$/../INTERFACE-Conparator/Circle.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTERFACE-Conparator/CircleComparator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../INTERFACE-Conparator/CircleComparator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTERFACE-Conparator/Comparator.php" beforeDir="false" afterPath="$PROJECT_DIR$/../INTERFACE-Conparator/Comparator.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTERFACE-Conparator/Shape.php" beforeDir="false" afterPath="$PROJECT_DIR$/../INTERFACE-Conparator/Shape.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../INTERFACE-Conparator/interfacecomparatorTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../INTERFACE-Conparator/interfacecomparatorTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/customers/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/customers/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/customers/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/customers/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/customers/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/customers/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-Customer-test/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/CustomerRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/CustomerRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/Eloquent/EloquentRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/Eloquent/EloquentRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/Impl/CustomerRepositoryImpl.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/Impl/CustomerRepositoryImpl.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/Repository.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-RESTful-api/app/Repositories/Repository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/public/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-Zed-cc/public/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/books/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/books/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/books/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/books/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/books/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/books/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-Zed-cc/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/students/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/students/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/students/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/students/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/students/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-students-demo/resources/views/students/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/tasks/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/tasks/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/tasks/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/tasks/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/tasks/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/tasks/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel-validation/resources/views/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel-validation/resources/views/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_Calculator/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_Calculator/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_Demo/resources/views/home.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_Demo/resources/views/home.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_Demo/resources/views/test.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_Demo/resources/views/test.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_Dictionary/resources/views/Dictionary.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_Dictionary/resources/views/Dictionary.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_Dictionary/resources/views/find_error.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_Dictionary/resources/views/find_error.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_Dictionary/resources/views/mean.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_Dictionary/resources/views/mean.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_manager-customer/app/Customer.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_manager-customer/app/Customer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_manager-customer/resources/views/customers/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_manager-customer/resources/views/customers/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_task_manager/resources/views/modules/customer/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_task_manager/resources/views/modules/customer/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel_timezone/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel_timezone/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/LinkListTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/LinkListTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/Linklist.php" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/Linklist.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LinkedList/Node.php" beforeDir="false" afterPath="$PROJECT_DIR$/../LinkedList/Node.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/ArrayList.php" beforeDir="false" afterPath="$PROJECT_DIR$/../List/ArrayList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../List/ArrayTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../List/ArrayTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/resources/views/login.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/resources/views/login.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/resources/views/login_error.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/resources/views/login_error.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Login/resources/views/welcome_admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Login/resources/views/welcome_admin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-ArrayList/MyList.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-ArrayList/MyList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-ArrayList/MyListTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-ArrayList/MyListTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Linkedlist/MyList.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Linkedlist/MyList.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Linkedlist/MylinkedListTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Linkedlist/MylinkedListTest.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Method-Linkedlist/Node.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Method-Linkedlist/Node.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MoveAblePoint/MoveablePoint.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MoveAblePoint/MoveablePoint.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/resources/views/blogs/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../MyBlog/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../MyBlog/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Point2D-3D/Point2D-3D.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Point2D-3D/Point2D-3D.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product Manager/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Product Manager/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product Manager/controller/productController.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Product Manager/controller/productController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product Manager/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Product Manager/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product Manager/model/product.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Product Manager/model/product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product Manager/view/Product.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Product Manager/view/Product.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Product Manager/view/Product_List.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Product Manager/view/Product_List.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../QuadraticEquation(phuong trinh bac 2)/QuadraticEquation.php" beforeDir="false" afterPath="$PROJECT_DIR$/../QuadraticEquation(phuong trinh bac 2)/QuadraticEquation.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Rectangle/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Rectangle/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../St/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../St/index.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array-2ch/demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/../array-2ch/demo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array-2ch/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/../array-2ch/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../array-2ch/matrix.php" beforeDir="false" afterPath="$PROJECT_DIR$/../array-2ch/matrix.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization/resources/views/layouts/page_admin.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization/resources/views/layouts/page_admin.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../authorization/resources/views/layouts/page_guest.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../authorization/resources/views/layouts/page_guest.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/resources/views/blog/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/resources/views/blog/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/resources/views/blog/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/resources/views/blog/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/resources/views/blog/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/resources/views/blog/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../blog/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../blog/resources/views/home.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../demo/demo.php" beforeDir="false" afterPath="$PROJECT_DIR$/../demo/demo.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../i18n/resources/lang/en/messages.php" beforeDir="false" afterPath="$PROJECT_DIR$/../i18n/resources/lang/en/messages.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../i18n/resources/lang/vi/messages.php" beforeDir="false" afterPath="$PROJECT_DIR$/../i18n/resources/lang/vi/messages.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interface -Colorable/Colorable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../interface -Colorable/Colorable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../interface- Resizeable/Resizeable.php" beforeDir="false" afterPath="$PROJECT_DIR$/../interface- Resizeable/Resizeable.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/EloquentRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/EloquentRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/post/PostEloquentRepository.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/post/PostEloquentRepository.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/post/PostRepositoryInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/post/PostRepositoryInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/RepositoryInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/RepositoryInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/service/post/postServiceInterface.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-blog-i18n/app/service/post/postServiceInterface.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/service/post/postservice.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-blog-i18n/app/service/post/postservice.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/resources/lang/en/language.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-blog-i18n/resources/lang/en/language.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/resources/lang/vi/language.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-blog-i18n/resources/lang/vi/language.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/resources/views/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-blog-i18n/resources/views/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/resources/views/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-blog-i18n/resources/views/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-page-view-counter-using-session/resources/views/index.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-page-view-counter-using-session/resources/views/index.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-page-view-counter-using-session/resources/views/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-page-view-counter-using-session/resources/views/show.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-web-login-logout-using-session/resources/views/blog.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-web-login-logout-using-session/resources/views/blog.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-web-login-logout-using-session/resources/views/layouts/master.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-web-login-logout-using-session/resources/views/layouts/master.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test3/resources/views/books/create.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../test3/resources/views/books/create.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test3/resources/views/books/edit.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../test3/resources/views/books/edit.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test3/resources/views/books/list.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../test3/resources/views/books/list.blade.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test3/resources/views/home.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../test3/resources/views/home.blade.php" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="67" />
+    <option name="y" value="27" />
+    <option name="width" value="630" />
+    <option name="height" value="741" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="38daaef2-c5e8-4502-9249-b7c16edb253c" name="Default Changelist" comment="" />
+      <created>1544499956193</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1544499956193</updated>
+      <workItem from="1544499957545" duration="1016000" />
+      <workItem from="1544671463963" duration="1034000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2050000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="67" y="25" width="1299" height="743" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25379092" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.32899022" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+</project>
