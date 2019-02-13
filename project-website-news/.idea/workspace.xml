@@ -2,13 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3208b581-22a8-43ae-9b81-200a112033f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../Laravel/ExampleTest/resources/views/user/create.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../Laravel/test3/resources/views/books/show.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laravel-api/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laravel-api/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../laravel-api/app/Http/Middleware/Cors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Animals-Edible/AbstractAndInterfaceTest.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/AbstractAndInterfaceTest.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Animal.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Animal.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Fruit.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Animals-Edible/AbstractClass/Fruit.php" afterDir="false" />
@@ -81,6 +74,7 @@
       <change beforePath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/tasks/edit.blade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Laravel-task-manager-Eloquent/resources/views/tasks/list.blade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Laravel-validation/resources/views/create.blade.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Laravel/test3/resources/views/books/show.blade.php" beforeDir="false" afterPath="$PROJECT_DIR$/../Laravel/test3/resources/views/books/show.blade.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Laravel_Calculator/resources/views/index.blade.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Laravel_Demo/resources/views/home.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Laravel_Demo/resources/views/test.blade.php" beforeDir="false" />
@@ -175,6 +169,7 @@
       <change beforePath="$PROJECT_DIR$/../interface -Colorable/Colorable.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../interface- Resizeable/.idea/vcs.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../interface- Resizeable/Resizeable.php" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../laravel-api/app/Http/Middleware/Cors.php" beforeDir="false" afterPath="$PROJECT_DIR$/../laravel-api/app/Http/Middleware/Cors.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/EloquentRepository.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/post/PostEloquentRepository.php" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../laravel-blog-i18n/app/Repositories/Eloquent/post/PostRepositoryInterface.php" beforeDir="false" />
@@ -229,12 +224,30 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
           <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="465">
+              <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
+            </state>
+          </provider>
         </entry>
       </file>
     </leaf>
@@ -380,6 +393,14 @@
             <path>
               <item name="project-website-news" type="b2602c69:ProjectViewProjectNode" />
               <item name="project-website-news" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="Http" type="462c0819:PsiDirectoryNode" />
+              <item name="Controllers" type="462c0819:PsiDirectoryNode" />
+              <item name="Auth" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="project-website-news" type="b2602c69:ProjectViewProjectNode" />
+              <item name="project-website-news" type="462c0819:PsiDirectoryNode" />
               <item name="database" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -446,12 +467,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1550031734205</updated>
-      <workItem from="1550031735959" duration="243000" />
+      <workItem from="1550031735959" duration="1140000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="243000" />
+    <option name="totallyTimeSpent" value="1140000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="67" y="25" width="1299" height="743" extended-state="6" />
@@ -492,10 +513,24 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/Http/Middleware/Authenticate.php">
+    <entry file="file://$PROJECT_DIR$/app/Http/Controllers/Auth/RegisterController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="68" column="39" selection-start-line="68" selection-start-column="39" selection-end-line="68" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_000000_create_users_table.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="27" column="30" lean-forward="true" selection-start-line="27" selection-start-column="30" selection-end-line="27" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database/migrations/2014_10_12_100000_create_password_resets_table.php">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
   </component>
